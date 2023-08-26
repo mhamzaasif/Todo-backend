@@ -34,6 +34,8 @@ $ yarn install
 
 ## Running the app
 
+**Note:** Please update the .env variables as per your system
+
 ```bash
 # development
 $ yarn run start
